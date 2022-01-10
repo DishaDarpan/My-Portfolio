@@ -113,15 +113,6 @@ p {
   margin: 0;
   color: #f8f8f8;
 }
-
-.project-description {
-  padding: 120px 60px;
-}
-
-.work-heading {
-  font-size: 106px;
-}
-
 @media (max-width: 960px) {
   h1,
   .work-heading {
@@ -138,16 +129,4 @@ p {
     font-size: 22px;
   }
 
-  .hero-about {
-    padding-top: 30px;
-  }
-
-  .hero-inner-text {
-    padding: 80px 20px;
-  }
-
-  .project-description {
-    padding: 0;
-    text-align: center;
-  }
-}
+ 
